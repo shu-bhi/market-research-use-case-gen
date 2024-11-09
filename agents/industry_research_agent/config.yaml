@@ -1,0 +1,3 @@
+api_key: "your_api_key"
+industry_url: "https://api.example.com/industry"
+company_url: "https://api.example.com/company"

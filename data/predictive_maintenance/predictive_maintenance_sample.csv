@@ -1,0 +1,7 @@
+machine_id,temperature,pressure,vibration,operational_hours,failure_event
+M001,72.4,101.5,0.03,1500,0
+M002,69.8,98.2,0.04,1200,1
+M003,75.0,105.3,0.02,1800,0
+M004,68.5,99.1,0.05,2000,1
+M005,70.2,97.7,0.03,1600,0
+

@@ -1,0 +1,18 @@
+# Project-level configurations
+
+project:
+  name: "Market Research & Use Case Generation System"
+  description: "Multi-Agent system for AI and GenAI use case generation based on market research"
+
+api_keys:
+  industry_data_api: "your_industry_data_api_key"
+  kaggle_api: "your_kaggle_api_key"
+
+database:
+  url: "postgresql://user:password@localhost:5432/market_research_db"
+  use_ssl: false
+  connection_timeout: 30
+
+logging:
+  level: "INFO"            # Options: DEBUG, INFO, WARNING, ERROR
+  file: "logs/project_log.log"

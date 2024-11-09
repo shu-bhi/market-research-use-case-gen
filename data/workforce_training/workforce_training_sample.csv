@@ -1,0 +1,7 @@
+employee_id,employee_name,department,training_completed,performance_score,days_since_last_training,onboarding_status
+E001,John Doe,Manufacturing,Yes,85,30,Completed
+E002,Jane Smith,Quality Control,No,78,60,In Progress
+E003,Bob Johnson,Logistics,Yes,92,15,Completed
+E004,Alice Brown,Maintenance,Yes,88,45,Completed
+E005,David White,Manufacturing,No,75,90,Not Started
+

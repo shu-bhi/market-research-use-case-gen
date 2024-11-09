@@ -1,0 +1,6 @@
+product_id,product_name,warehouse_id,stock_quantity,daily_demand,lead_time,delivery_cost
+101,Widget A,1,150,10,5,200
+102,Widget B,2,300,20,4,150
+103,Widget C,1,50,5,7,300
+104,Widget D,3,400,15,3,250
+105,Widget E,2,200,8,6,180
