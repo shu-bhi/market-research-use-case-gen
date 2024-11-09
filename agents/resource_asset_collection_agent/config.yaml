@@ -1,0 +1,4 @@
+datasets:
+  supply_chain: ["https://www.kaggle.com/datasets/suraj9727/supply-chain-optimization-for-a-fmcg-company"]
+  predictive_maintenance: ["https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification"]
+  workforce_training: []
