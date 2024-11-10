@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/shivamb/machine-predictive-maintenance-classification
+https://github.com/Yi-Chen-Lin2019/Predictive-maintenance-with-machine-learning

@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/suraj9727/supply-chain-optimization-for-a-fmcg-company
+https://github.com/samirsaci/supply-chain-optimization
